@@ -6,5 +6,7 @@ The main goal of this project is to create a 2D MMO game with survival and rpg e
 
 # Dependencies
 This project is currently using:
-** Amethyst Game Engine
-** Specs ECS
+- [Amethyst Game Engine](https://github.com/amethyst/amethyst)
+- [Specs ECS](https://github.com/slide-rs/specs)
+
+
