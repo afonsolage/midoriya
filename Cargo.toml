@@ -1,6 +1,7 @@
 [package]
-name = "Midoriya"
+name = "midoriya"
 version = "0.1.0"
 authors = ["Afonso Lage <lage.afonso@gmail.com>"]
 
 [dependencies]
+amethyst = {git = "https://github.com/amethyst/amethyst", branch = "develop"}
