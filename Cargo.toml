@@ -1,0 +1,6 @@
+[package]
+name = "Midoriya"
+version = "0.1.0"
+authors = ["Afonso Lage <lage.afonso@gmail.com>"]
+
+[dependencies]
