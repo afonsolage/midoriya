@@ -9,4 +9,7 @@ This project is currently using:
 - [Amethyst Game Engine](https://github.com/amethyst/amethyst)
 - [Specs ECS](https://github.com/slide-rs/specs)
 
+# Emoji Style Guide
+This project uses the emoji style guide based on [this one](https://github.com/slashsBin/styleguide-git-commit-message)
+
 
